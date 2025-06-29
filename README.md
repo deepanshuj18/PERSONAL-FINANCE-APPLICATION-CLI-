@@ -8,7 +8,7 @@ A simple command-line application to help users manage their personal finances â
 -  Set Monthly Budgets
 -  Add, View, Update, Delete Transactions
 -  Monthly & Yearly Reports
-- âš  Budget Exceed Warnings
+-  Budget Exceed Warnings
 -  All Unit Tests Passed with `pytest`
 
 ## Tech Stack
