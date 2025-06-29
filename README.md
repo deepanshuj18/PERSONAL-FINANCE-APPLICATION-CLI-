@@ -1,24 +1,24 @@
-# 💰 Personal Finance Management System (CLI-based)
+#  Personal Finance Management System (CLI-based)
 
 A simple command-line application to help users manage their personal finances — including budget planning, transaction tracking, and generating monthly/yearly financial reports.
 
-## 🚀 Features
+##  Features
 
-- ✅ User Registration & Login
-- 📊 Set Monthly Budgets
-- ➕ Add, View, Update, Delete Transactions
-- 📆 Monthly & Yearly Reports
-- ⚠️ Budget Exceed Warnings
-- ✅ All Unit Tests Passed with `pytest`
+-  User Registration & Login
+-  Set Monthly Budgets
+-  Add, View, Update, Delete Transactions
+-  Monthly & Yearly Reports
+- ⚠ Budget Exceed Warnings
+-  All Unit Tests Passed with `pytest`
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - Python 3.10
 - SQLite
 - `pytest` for testing
 - CLI-based Interface
 
-## 📁 Project Structure
+##  Project Structure
 PythonProject1/
 ├── main.py
 ├── auth.py
